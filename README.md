@@ -1,3 +1,11 @@
+###Solution for Programming Assignment 2 
+
+This repository contains two R fles:
+
+* cachemean.R contains functions described below to cache man of the vector. Just copy+paste!
+* cachematrix.R contains functions to cache inverse of matrix. Written by myself!
+
+(below original readme)
 ### Introduction
 
 This second programming assignment will require you to write an R
